@@ -17,7 +17,7 @@ arXiv: [TBD]
 ---
 
 ## 📈 Figures (output curves for example tags)
-<img src="results/PvE.png" height="230px"><img src="results/Co-op.png" height="230px"><img src="results/End Trends.png" height="230px">
+<img src="results/PvE.png" height="190px"><img src="results/Co-op.png" height="190px"><img src="results/End Trends.png" height="190px">
 
 ## 🗂️ Repository Structure
 ```yaml
