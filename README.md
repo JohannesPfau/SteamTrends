@@ -7,7 +7,7 @@ Nicolas Grelier, Pullup Entertainment
 [Johannes Pfau](https://nevermindcreations.de/), Utrecht University  
 Nicolas Mathieu, Pullup Entertainment  
 Stéphane Kaufmann, Pullup Entertainment  
-arXiv: [TBD]  
+arXiv: [http://arxiv.org/abs/2506.08881](http://arxiv.org/abs/2506.08881)  
 
 ---
 
