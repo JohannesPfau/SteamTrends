@@ -27,7 +27,7 @@ arXiv: [http://arxiv.org/abs/2506.08881](http://arxiv.org/abs/2506.08881)
 ├── requirements.txt # Python dependencies
 ├── LICENSE
 ├── README.md
-└── paper.pdf # (TBD)
+└── FromFadsToClassics.pdf # paper PDF
 ```
 
 ## 🚀 Getting Started
